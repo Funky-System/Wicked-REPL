@@ -1,0 +1,9 @@
+[submodule "Funky-VM"]
+	path = Funky-VM
+	url = https://github.com/Funky-System/Funky-VM
+[submodule "Funky-Assembler"]
+	path = Funky-Assembler
+	url = https://github.com/Funky-System/Funky-Assembler
+[submodule "Wicked-Compiler"]
+	path = Wicked-Compiler
+	url = https://github.com/Funky-System/Wicked-Compiler
